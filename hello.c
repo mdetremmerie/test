@@ -10,3 +10,6 @@ int size=4;
 int tab[SIZE]={1,0,0,0};
 printf("%d",tab[0]);
 }
+
+//un nouveau commentaire
+ 
